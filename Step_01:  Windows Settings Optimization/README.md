@@ -1,4 +1,5 @@
 <h1 align="center">Windows Settings Optimization</h1>
+This should be the first step after a fresh Windows 11 installation, before connecting the machine to the internet. By doing this, even if you don’t have the activation key, you'll still be able to configure the necessary settings.
 
 ### 1. Disable Drive Compression and Indexing
 Press `Win + E` to open File Explorer
@@ -54,3 +55,14 @@ Press `Win + R`, type control, then press Enter
   
 ---
 <p>&nbsp;</p>
+
+### 5. Update Windows Software and Drivers
+- Open Settings ➔ go to Windows Update.
+- Download and install all available updates.
+Let Windows finish installing all system updates and drivers.
+
+---
+
+### If your laptop is heating up during updates, give it a break and let it cool down before moving on to the next steps.
+
+
