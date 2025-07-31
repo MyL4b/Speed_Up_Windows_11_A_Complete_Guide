@@ -13,7 +13,6 @@ While your PC applies those changes (it might take a few minutes), you can move 
 ---
 <p>&nbsp;</p>
 
----
 ### Disable unnecessary Windows features to enhance performance, improve privacy, and reduce distractions
 Press `Win + I` on your keyboard to open the Settings menu and apply the following settings:
 - System ⟶ Storage ⟶ Turn off the switch for Storage Sense.
@@ -39,7 +38,6 @@ Press `Win + I` on your keyboard to open the Settings menu and apply the followi
 ---
 <p>&nbsp;</p>
 
----
 ### Disable virtual memory, system restore, and remote access to improve performance and enhance system security.
 Press `Win + R`, type SystemPropertiesAdvanced then press Enter.
 - Under the Performance section, click Settings ⟶ Switch to the Advanced tab ⟶ Under the Virtual memory section, click Change ⟶ Uncheck Automatically manage paging file size for all drives⟶  Choose No paging file, then click Set ⟶ Click OK to apply the changes.
@@ -49,10 +47,10 @@ Press `Win + R`, type SystemPropertiesAdvanced then press Enter.
 ---
 <p>&nbsp;</p>
 
----
 ### Disable Unnecessary Windows Features and Power Settings
 Press `Win + R`, type control, then press Enter
 - Control panel ⟶ Programs⟶ Turn Windows features on or off ⟶ In the Windows Features window that opens, uncheck all the boxes ⟶ turn off every optional Windows feature ⟶ Click OK.
 - Control panel ⟶ System and Security ⟶ Power Options ⟶ On the left side: Choose what the power buttons do ⟶ Change settings that are currently unavailable ⟶Deselect all the option under Shut-Down settings
   
 ---
+<p>&nbsp;</p>
