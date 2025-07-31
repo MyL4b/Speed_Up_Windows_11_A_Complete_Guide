@@ -1,4 +1,4 @@
-<h1 align="center">Windows Settings Optimization Guide</h1>
+<h1 align="center">Windows Settings Optimization</h1>
 
 ### Disable Drive Compression and Indexing
 Press `Win + E` to open File Explorer
