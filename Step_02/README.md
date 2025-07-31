@@ -1,18 +1,17 @@
-# Windows Settings Optimization Guide
-### Disable Drive Compression and Indexing
+<h1 align="center">Windows Settings Optimization Guide</h1>
 
-Press `Win + E` to open File Explorer.
+### Disable Drive Compression and Indexing
+Press `Win + E` to open File Explorer
 - Right-click on your main drive (usually C:), then click Properties.
 - At the bottom, uncheck:
     - “Compress this drive to save disk space”
     - “Allow files on this drive to have contents indexed in addition to file properties”
-    - Click Apply, then OK.
-      
-While your PC applies those changes (it might take a few minutes), you can move on to the next step.
+    - Click Apply, then OK
+  
+While your PC applies those changes (it might take a few minutes), you can move on to the next step
 
 ---
-### Disable unnecessary Windows features to enhance performance, improve privacy, and reduce distractions.
-
+### Disable unnecessary Windows features to enhance performance, improve privacy, and reduce distractions
 Press `Win + I` on your keyboard to open the Settings menu and apply the following settings:
 - System ⟶ Storage ⟶ Turn off the switch for Storage Sense.
 - System ⟶ Clipboard ⟶ Find Clipboard history and switch it Off.
@@ -36,7 +35,6 @@ Press `Win + I` on your keyboard to open the Settings menu and apply the followi
 
 --- 
 ### Disable virtual memory, system restore, and remote access to improve performance and enhance system security.
-
 Press `Win + R`, type SystemPropertiesAdvanced then press Enter.
 - Under the Performance section, click Settings ⟶ Switch to the Advanced tab ⟶ Under the Virtual memory section, click Change ⟶ Uncheck Automatically manage paging file size for all drives⟶  Choose No paging file, then click Set ⟶ Click OK to apply the changes.
 - Back in the System Properties window, go to the System Protection tab ⟶ Select your system drive (usually C:) and click Configure ⟶ Choose Disable system protection⟶ Click OK to save.
@@ -44,7 +42,6 @@ Press `Win + R`, type SystemPropertiesAdvanced then press Enter.
 
 ---
 ### Disable Unnecessary Windows Features and Power Settings
-
 Press `Win + R`, type control, then press Enter
 - Control panel ⟶ Programs⟶ Turn Windows features on or off ⟶ In the Windows Features window that opens, uncheck all the boxes ⟶ turn off every optional Windows feature ⟶ Click OK.
 - Control panel ⟶ System and Security ⟶ Power Options ⟶ On the left side: Choose what the power buttons do ⟶ Change settings that are currently unavailable ⟶Deselect all the option under Shut-Down settings
