@@ -52,6 +52,11 @@ Press `Win + R`, type SystemPropertiesAdvanced then press Enter.
 Press `Win + R`, type control, then press Enter
 - Control panel ➔ Programs ➔ Turn Windows features on or off ➔ In the Windows Features window that opens, uncheck all the boxes ➔ turn off every optional Windows feature ➔ Click OK.
 - Control panel ➔ System and Security ➔ Power Options ➔ On the left side: Choose what the power buttons do ➔ Change settings that are currently unavailable ➔ Deselect all the option under Shut-Down settings
+- Control panel ➔ System and Security ➔ Power Options ➔ Change plan settings ➔ Change advanced power settings ➔ Apply the following settings:
+	- Turn off hard disk after ➔ Never
+	- Desktop backround settings ➔ Slide show ➔ Paused
+	- Sleep after ➔ Never
+	- Allow wake timers ➔ Disable
   
 ---
 <p>&nbsp;</p>
