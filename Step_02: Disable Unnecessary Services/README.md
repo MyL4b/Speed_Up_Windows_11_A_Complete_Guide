@@ -11,7 +11,7 @@ Disabling unnecessary background services can improve boot time, reduce backgrou
 7. Click OK to apply the changes.
 8. Repeat these steps for any other services you wish to disable.
 ---
-
+<p>&nbsp;</p>
 
 ### Services to stop:
 | Service                        | Description                                                   |
@@ -39,3 +39,16 @@ Disabling unnecessary background services can improve boot time, reduce backgrou
 | **Retail Demo Service**        | *Used in retail display versions of Windows to showcase features.*  |
 | **Windows Update**             | *Automatically downloads and installs Windows updates.*  |
 | **Windows Event log**          | *Logs system, security, and application events.*  |
+---
+<p>&nbsp;</p>
+
+## 📸 Demo
+Use the images below as a visual reference to compare what you currently see in Windows with what you should see after applying the recommended changes.
+<p align="center">
+  <img src="Images/1.png" width="350" />
+  <img src="Images/2.png" width="350" />
+  <img src="Images/3.png" width="350" />
+</p>
+
+
+
