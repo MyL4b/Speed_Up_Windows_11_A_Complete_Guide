@@ -12,13 +12,7 @@ Additionally, fewer apps mean fewer automatic updates and notifications to manag
 3. Open the **RevoUninstaller** folder and run the application named **RevoUPort**.
 3. In the top menu, select the [Uninstaller](Images/1.png) option and delete all the applications you don’t use. I especially recommend removing OneDrive, Microsoft Edge browser, and WebView.
 4. After completing step 3, go to the top menu and select [Windows Apps](Images/2.png). From there, uninstall any unused apps. [**Click here**](Images/3.png) to see the list of apps I chose to keep — all others can be safely removed.
-
-
-
-
-
-
-
+   
 ---
 <p>&nbsp;</p>
 
