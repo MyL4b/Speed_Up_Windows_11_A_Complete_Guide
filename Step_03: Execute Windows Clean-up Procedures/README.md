@@ -10,8 +10,12 @@ Additionally, fewer apps mean fewer automatic updates and notifications to manag
 1. Download the folder named **Essential Software for System Cleanup** from the `Step_03: Execute Windows Cleanup Procedures` directory.
 2. Unzip the folder to access the necessary tools.
 3. Open the **RevoUninstaller** folder and run the application named **RevoUPort**.
-3. In the top menu, select the Uninstaller option and delete all the applications you don’t use. I especially recommend removing OneDrive, Microsoft Edge browser, and WebView.
+3. In the top menu, select the [Uninstaller](Images/1.png) option and delete all the applications you don’t use. I especially recommend removing OneDrive, Microsoft Edge browser, and WebView.
 4. After completing this, go back to the top menu and select Windows Apps. From there, uninstall any unused apps. At the end of this guide, you’ll find a screenshot showing which apps I’m keeping for reference.
+
+
+
+
 
 ### Cleaning windows
 
