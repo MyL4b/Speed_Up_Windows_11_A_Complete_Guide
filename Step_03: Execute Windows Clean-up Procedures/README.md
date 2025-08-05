@@ -21,5 +21,6 @@ Additionally, fewer apps mean fewer automatic updates and notifications to manag
 
 ---
 <p>&nbsp;</p>
+
 ### Cleaning windows
 
